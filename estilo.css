@@ -1,0 +1,8 @@
+* {margin: 0%; padding: 0%;}
+.logo {width:  100px;}
+
+.nav-link:hover {
+    background-color: rgb(171, 166, 233);
+    width: 5;
+    color: rgb(0, 0, 0);
+}
